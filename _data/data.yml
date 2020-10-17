@@ -75,36 +75,21 @@ experiences:
       company: Solar Energy Research Institute of Singapore
       details: |
         Advanced contact passivation concepts for high-efficiency silicon solar cells 
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
           - Developed a screen-printable tunnel junction for applications in double-side passivated contact solar cells, all-back-contact passivated contact solar cells and perovskite-Si tandem solar cell
           - Established various damage-free laser patterning processes for passivated contact solar cells
           - Established a methodology to accurately measure thickness and refractive indices of ultra-thin poly-Si layers
           - Quantified parasitic absorption in poly-Si layers and predicted efficiency potential for various novel solar cell architectures using realistically measured data
           - Supported and contributed to the development of the photovoltaic simulation platform xSolar-Hetero
           - Supported and contributed to analysing locally excited photoluminescence spread (by means of machine learning) to extract wafer-resistivity/emitter-sheet-resistance
-
-      
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Ph.D
+      time: 2012 - 2016
+      company: National University of Singapore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Conducted a comprehensive investigation and evaluation on the potential of applying periodic nanostructures in ultra-thin silicon solar cells.
+
+
+     
+
 projects:
     title: Projects
     intro: >
@@ -139,10 +124,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Development of TOPCon tunnel-IBC solar cells with screen-printed fire-through contacts by laser patterning
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: P. Wang, R. Sridharan, X. R. Ng, J. W. Ho, R. Stangl
+     
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
