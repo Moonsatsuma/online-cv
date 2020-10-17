@@ -127,17 +127,18 @@ publications:
       - title: Development of TOPCon tunnel-IBC solar cells with screen-printed fire-through contacts by laser patterning
         link: "#"
         authors: P. Wang, R. Sridharan, X. R. Ng, J. W. Ho, R. Stangl
+        conference:
      
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Development of p+/n+ Polysilicon Tunnel Junctions Compatible for Industrial Screen Printing"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: X. R. Ng, T. Liu, P. Wang, M. Thway, A. G. Aberle, R. Stangl
+        conference: "46th IEEE Photovoltaic Specialists Conference (PVSC), Chicago, 2019"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Investigating Industrial Metallization Solutions for Double-side Contact Passivated biPoly Solar Cells
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: P. Wang, R. Sridharan, X. R. Ng, A. Khanna, S. Venkataraj, and R. Stangl
+        conference: "46th IEEE Photovoltaic Specialists Conference (PVSC), Chicago, 2019"
 
 skills:
     title: Skills &amp; Proficiency
