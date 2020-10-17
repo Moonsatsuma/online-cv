@@ -70,19 +70,11 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Fellow
+      time: 2017 - Present
+      company: Solar Energy Research Institute of Singapore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Advanced contact passivation concepts for high-efficiency silicon solar cells 
           - Bullet point
           - Bullet point
     - role: Senior Software Engineer
@@ -94,8 +86,14 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Developed a screen-printable tunnel junction for applications in double-side passivated contact solar cells, all-back-contact passivated contact solar cells and perovskite-Si tandem solar cell
+          - Established various damage-free laser patterning processes for passivated contact solar cells
+          - Established a methodology to accurately measure thickness and refractive indices of ultra-thin poly-Si layers
+          - Quantified parasitic absorption in poly-Si layers and predicted efficiency potential for various novel solar cell architectures using realistically measured data
+          - Supported and contributed to the development of the photovoltaic simulation platform xSolar-Hetero
+          - Supported and contributed to analysing locally excited photoluminescence spread (by means of machine learning) to extract wafer-resistivity/emitter-sheet-resistance
+
+      
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
