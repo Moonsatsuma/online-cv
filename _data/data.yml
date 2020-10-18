@@ -155,14 +155,15 @@ publications:
         link: "#"
         authors: P. Wang, R. Sridharan, X. R. Ng, A. Khanna, S. Venkataraj, and R. Stangl
         conference: "46th IEEE Photovoltaic Specialists Conference (PVSC), Chicago, 2019"
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Solar cell fabrication and characterization
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Simulation
         level: 98%
 
       - name: Angular
