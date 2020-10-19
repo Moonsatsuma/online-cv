@@ -171,6 +171,32 @@ publications:
         link: "#"
         authors: K. Xu, C. Zhang, H. T. Lu, P. Wang, R. Zhou, R. Ji, M. Hong
         conference: "Optics Express, 2016"
+      
+      - title: Impact of breaking symmetry on the light trapping properties of periodic nanostructures for ultra-thin silicon solar cells
+        link: "#"
+        authors: P. Wang and I. M. Peters
+        conference: "2015 IEEE 42nd Photovoltaic Specialists Conference (PVSC), 2015"
+
+      - title: Theoretical investigation of “nano-muffin” and inverted nano-pyramid surface textures for energy harvesting in very thin c-Si solar cells
+        link: "#"
+        authors: P. Wang, S. Azimi, M. B. H. Breese, and I. M. Peters
+        conference: "MRS Online Proceedings Library, vol. 1638, 2014"
+
+      - title: Near-field enhancement of periodic nanostructures for photovoltaic applications: a theoretical study
+        link: "#"
+        authors: P. Wang, S. Azimi, M. B. H. Breese, and I. M. Peters
+        conference: "Journal of Optics, vol. 16, p. 125012, 2014"
+
+      - title: Simulation of periodic nanostructures for light management in thin crystalline silicon soalr cells
+        link: "#"
+        authors: P. Wang, S. Azimi, M. B. H. Breese, and I. M. Peters
+        conference: "29th European Photovoltaic Solar Energy Conference and Exhibition, Amsterdam, 2014"
+
+      - title: Simulation of periodic nanostructures for light management in thin crystalline silicon soalr cells
+        link: "#"
+        authors: P. Wang, S. Azimi, M. B. H. Breese, and I. M. Peters
+        conference: "29th European Photovoltaic Solar Energy Conference and Exhibition, Amsterdam, 2014"
+
 
 skills:
     title: Skills &amp; Proficiency
@@ -188,7 +214,7 @@ skills:
       - name: Spectroscopy Ellipsometry
         level: 95%
 
-      - name: Ruby on Rails
+      - name: laser patterning
         level: 85%
 
       - name: Sketch & Photoshop
