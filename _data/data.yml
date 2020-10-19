@@ -19,7 +19,7 @@ sidebar:
     linkedin: alandoe
     github: sharu725
     telegram: # add your nickname without '@' sign
-    gitlab:
+    gitlab: 
     bitbucket:
     twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -90,14 +90,13 @@ experiences:
 
 
      
-
 projects:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-   assignments:
+    assignments:
       - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
@@ -108,7 +107,7 @@ projects:
 
       - title: Tempo
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A responsive website template designed to help startups promote their
 
       - title: Atom
         link: "#"
