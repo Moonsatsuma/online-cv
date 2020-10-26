@@ -1,4 +1,4 @@
-{% assign projects = site.data.data.patents %}
+{% assign projects = site.data.data.projects %}
 {% if projects %}
 <section class="section projects-section">
 
@@ -19,7 +19,7 @@
   {% for project in projects.assignments %}
     <div class="item">
 
-      <span class="patent-title">
+      <span class="project-title">
         {% if project.link %}
         <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
         {% else %}
