@@ -193,7 +193,17 @@ publications:
         conference: "29th European Photovoltaic Solar Energy Conference and Exhibition, Amsterdam, 2014"
 
      
-
+patents:
+    title: patents
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: Development of TOPCon tunnel-IBC solar cells with screen-printed fire-through contacts by laser patterning
+        link: "#"
+        authors: P. Wang, R. Sridharan, X. R. Ng, J. W. Ho, R. Stangl
+        conference:
 
 skills:
     title: Skills &amp; Proficiency
