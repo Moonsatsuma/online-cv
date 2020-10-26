@@ -1,34 +1,34 @@
-{% assign patents = site.data.data.patents %}
-{% if patents %}
-<section class="section patents-section">
+{% assign projects = site.data.data.patents %}
+{% if projects %}
+<section class="section projects-section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
     </span>
-    {{ patents.title }}
+    {{ projects.title }}
   </h2>
 
-  {% if patents.intro %}
+  {% if projects.intro %}
   <div class="intro">
-      <p>{{ patents.intro }}</p>
+      <p>{{ projects.intro }}</p>
   </div><!--//intro-->
   {% endif %}
 
-  {% for patent in patents.assignments %}
+  {% for project in projects.assignments %}
     <div class="item">
 
       <span class="patent-title">
-        {% if patent.link %}
-        <a href="{{ patent.link }}" target="_blank">{{ patent.title }}</a>
+        {% if project.link %}
+        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
         {% else %}
-        {{ patent.title }}
+        {{ project.title }}
         {% endif %}
       </span>
 
-      {% if patent.tagline %}
-      - <span class="patent-tagline">{{ patent.tagline }}</span>
+      {% if project.tagline %}
+      - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
